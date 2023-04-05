@@ -1,0 +1,23 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saitmuza007/JavaScript-Fundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saitmuza007/JavaScript-Fundamentals/issues"
+  },
+  "homepage": "https://github.com/saitmuza007/JavaScript-Fundamentals#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
