@@ -6,7 +6,7 @@ const names="Mathew"
 console.log(names) 
 
 {
-     names="Mathew Pravin"
+    names="Mathew Pravin"
     console.log(names) 
 }
 console.log(names)
