@@ -1,4 +1,4 @@
-a={
+var a={
 "name":"Amir"
 }
 console.log(a)
@@ -44,3 +44,23 @@ function Guy(firstName,lastName)
 
 let guy=new Guy("Mathew ","Bouytyuyy")
 console.log(guy)
+
+
+for(const key in person)
+{
+    console.log(key)
+}
+
+for(const key in person)
+{
+   console.log(person[key])
+}
+
+const p=Object.values(person)
+console.log(p)
+
+const kv=Object.entries(person)
+console.log(kv)
+
+let amount=+0,volume=-0
+console.log(Object.is(volume===amount))
